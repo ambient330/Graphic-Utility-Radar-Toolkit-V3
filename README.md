@@ -26,3 +26,9 @@ TO-DO:
 2. Add a slider for colormap scaling
 3. Add a gatefilter for aesthetic purposes, or editing purposes
 4. File writing (NETCDF-4)
+
+PREREQUISITE PACKAGES:
+1. matplotlib
+2. PyART
+3. scipy
+
