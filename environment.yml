@@ -1,0 +1,9 @@
+name: main
+channels:
+  - defaults
+dependencies:
+  - scipy
+  - matplotlib
+  - numpy
+  - arm_pyart
+prefix: /home/ambien/miniconda3/envs/main
