@@ -22,10 +22,10 @@ Controls:
 
 
 TO-DO:
-1. Add a despeckle feature
+1. Add a despeckle feature DONE
 2. Add a slider for colormap scaling
 3. Add a gatefilter for aesthetic purposes, or editing purposes
-4. File writing (NETCDF-4)
+4. File writing (NETCDF-4) DONE
 
 PREREQUISITE PACKAGES:
 1. matplotlib
