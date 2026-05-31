@@ -14,18 +14,20 @@ Controls:
   Escape             — reset zoom to full range
 
 
-  Configs: 1-5 panels selectable 
+  Configs: 1-5 panels selectable (PANEL COUNT HIGHER THAN 3 WILL HAVE OVERLAPPING ISSUES)
 
 
-  Data processing: 
+  Data editing: 
   1. User selected unfolding with PyART region dealias and KDP processing
+  2. Unfolding/deglitching brush (adennison2009)
+  3. Boundary-guided deletion tool (adennison2009)
+
 
 
 TO-DO:
-1. Add a despeckle feature DONE (adennison2009)
-2. Add a slider for colormap scaling
-3. Add a gatefilter for aesthetic purposes, or editing purposes DONE (adennison2009)
-4. File writing (NETCDF-4) DONE (adennison2009)
+1. Add a slider for colormap scaling
+2. More file format support (ar2v, ODIM-H5)
+
 
 PREREQUISITE PACKAGES:
 1. matplotlib
