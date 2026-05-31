@@ -235,7 +235,7 @@ def dealias_velocity(radar, force=False):
     return radar
 
 class ParamColorDialog(tk.Toplevel):
-    BG        = "#191970"
+    BG        = "#7070a1"
     FG        = "#000000"
     ENTRY_BG  = "#ffffff"
     LABEL_W   = 18
