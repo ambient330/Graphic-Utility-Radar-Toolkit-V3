@@ -21,6 +21,7 @@ A graphical interface built on ARM PyART that emulates NCAR's SOLO3 program.
   1. User selected unfolding with PyART region dealias and KDP processing
   2. Unfolding/deglitching brush (adennison2009)
   3. Boundary-guided deletion tool (adennison2009)
+  4. Gate averaging brush/boundary tool (adennison2009)
 
 
 
@@ -29,11 +30,18 @@ A graphical interface built on ARM PyART that emulates NCAR's SOLO3 program.
 2. More file format support (ar2v, ODIM-H5)
 
 
-**PREREQUISITE PACKAGES:**
+**PREREQUISITE PACKAGES FOR V1-3:**
 1. matplotlib
 2. PyART
 3. scipy
 4. numpy
+
+
+**PREREQUISITE PACKAGES FOR V4:**
+1. vispy
+2. numpy
+3. scipy
+4. PyART
 
 **Certain code was taken or referenced from these sources:**
 lrose-colette, 2025: DeHart, J., Dixon, M., Javornik, B., Bell, M., Cha, T.-Y., DesRosiers, A., & Lee, W.-C. (2025). nsf-lrose/lrose-releases: lrose-colette-20250105 (lrose-colette-20250105). Zenodo. https://doi.org/10.5281/zenodo.14624762
