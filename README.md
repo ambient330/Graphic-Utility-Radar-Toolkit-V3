@@ -36,13 +36,6 @@ A graphical interface built on ARM PyART that emulates NCAR's SOLO3 program.
 3. scipy
 4. numpy
 
-
-**PREREQUISITE PACKAGES FOR V4:**
-1. vispy
-2. numpy
-3. scipy
-4. PyART
-
 **Certain code was taken or referenced from these sources:**
 lrose-colette, 2025: DeHart, J., Dixon, M., Javornik, B., Bell, M., Cha, T.-Y., DesRosiers, A., & Lee, W.-C. (2025). nsf-lrose/lrose-releases: lrose-colette-20250105 (lrose-colette-20250105). Zenodo. https://doi.org/10.5281/zenodo.14624762
 
